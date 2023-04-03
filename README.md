@@ -34,7 +34,7 @@ Prior to my studies at Northeastern, I worked as a Application Development Analy
   <img src = "https://img.shields.io/badge/PostGre-0052CC?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=openjdk&logoColor=white">
   <img src="http://img.shields.io/badge/-Terraform-007ACC?style=flat&logo=terraform&logoColor=white">
-</p><br>
+</p>
 
 
 <p align="center"> Web Deveplopment </p>
@@ -46,7 +46,7 @@ Prior to my studies at Northeastern, I worked as a Application Development Analy
   <img src = "https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
   <img src = "https://img.shields.io/badge/-Angular-00599C?style=flat&logo=angular&logoColor=white">
   <img src="http://img.shields.io/badge/-ExpressJS-F1502F?style=flat&logo=express&logoColor=FFFFFF">
-  </p><br>
+  </p>
   
   
 <p align="center"> Data Engineering </p>
@@ -58,7 +58,7 @@ Prior to my studies at Northeastern, I worked as a Application Development Analy
   <img src = "https://img.shields.io/badge/AWS%20Glue-0052CC?style=flat&logo=amazonrds&logoColor=white">
   <img src="http://img.shields.io/badge/-Power%20BI-F1502F?style=flat&logo=powerbi&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Tableau-339933?style=flat&logo=tableau&logoColor=FFFFFF">
-</p><br>
+</p>
 
 
 
@@ -70,7 +70,7 @@ Prior to my studies at Northeastern, I worked as a Application Development Analy
   <img src = "https://img.shields.io/badge/Apache%20Kafka-557C94?style=flat&logo=apachekafka&logoColor=white">
   <img src = "https://img.shields.io/badge/Amazon%20S3-1679A7?style=flat&logo=amazons3&logoColor=white"> 
   <img src = "https://img.shields.io/badge/Azure%20Functions-3776AB?style=flat&logo=azurefunctions&logoColor=white">
- </p><br>
+ </p>
  
  
 <p align="center"> DevOps </p>
