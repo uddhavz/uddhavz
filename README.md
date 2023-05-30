@@ -81,9 +81,10 @@ Prior to my studies at Northeastern, I worked as a Application Development Analy
     <img src="https://img.shields.io/badge/Azure%20Devops-019733?style=flat&logo=azuredevops&logoColor=white">
 </p>
 
+
 <h2 align="center"> My Stats </h2>
-<!-- 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uddhavz&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=uddhavz&langs_count=5&theme=buefy) -->
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uddhavz&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=uddhavz&langs_count=5&theme=buefy) 
 <br>
-<p align='center'><img width="463px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddhavz&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/>
-  </p>
+<!-- <p align='center'><img width="463px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddhavz&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/>
+  </p> -->
